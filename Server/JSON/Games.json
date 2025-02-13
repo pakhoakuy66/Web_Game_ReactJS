@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "releaseDate": "2017-03-03",
+        "description": "An open-world action-adventure game where players explore the kingdom of Hyrule, solve puzzles, and battle enemies to defeat Calamity Ganon.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/98/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Elden Ring",
+        "releaseDate": "2022-02-25",
+        "description": "An action RPG developed by FromSoftware and published by Bandai Namco, featuring an open world co-created by George R.R. Martin.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7f/Elden_Ring_Box_art.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Red Dead Redemption 2",
+        "releaseDate": "2018-10-26",
+        "description": "An open-world action-adventure game set in 1899, following the story of Arthur Morgan and the decline of the Wild West.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cyberpunk 2077",
+        "releaseDate": "2020-12-10",
+        "description": "A futuristic open-world RPG set in Night City, where players take on the role of V, a mercenary seeking immortality.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg"
+    },
+    {
+        "id": 5,
+        "name": "God of War (2018)",
+        "releaseDate": "2018-04-20",
+        "description": "A reimagining of the God of War series, following Kratos and his son Atreus as they journey through Norse mythology.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Grand Theft Auto V",
+        "releaseDate": "2013-09-17",
+        "description": "An open-world action-adventure game featuring three protagonists in Los Santos, with an expansive online multiplayer mode.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
+    },
+    {
+        "id": 7,
+        "name": "The Witcher 3: Wild Hunt",
+        "releaseDate": "2015-05-19",
+        "description": "An action RPG where players control Geralt of Rivia as he searches for his adopted daughter in a vast, open world.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Dark Souls III",
+        "releaseDate": "2016-04-12",
+        "description": "The third entry in the challenging action RPG series by FromSoftware, featuring intricate level design and tough enemies.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/81/Dark_Souls_III_cover_art.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Hollow Knight",
+        "releaseDate": "2017-02-24",
+        "description": "A critically acclaimed 2D Metroidvania game featuring deep exploration, challenging combat, and beautiful hand-drawn art.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/05/Hollow_Knight_cover.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Sekiro: Shadows Die Twice",
+        "releaseDate": "2019-03-22",
+        "description": "An action-adventure game by FromSoftware, featuring fast-paced sword combat and a gripping samurai-era story.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/56/Sekiro_art.jpg"
+    }
+]
