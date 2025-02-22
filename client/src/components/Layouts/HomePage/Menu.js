@@ -1,4 +1,4 @@
-import LogoItch from "../../../IMG/logoItch.svg";
+import LogoItch from "../../../assets/img/logoItch.svg";
 
 export function Menu() {
     return (
